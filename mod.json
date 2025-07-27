@@ -1,0 +1,10 @@
+{
+	"name": "hpsoundpack",
+	"displayName": "HazmatPants Sound Pack",
+	"author": "HazmatPants",
+	"description": "Replaces sounds with cooler ones",
+	"version": 1.0,
+	"minGameVersion": 146,
+	"dependencies": [],
+	"hidden": true
+}
