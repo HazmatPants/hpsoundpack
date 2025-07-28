@@ -4,5 +4,5 @@ This mod should be installable through the in-game mod browser, but you can also
 
 # Music
 
-Editor - Abyss ambience from People Playground
-Menu - Carousel music from Retro Games The Spectrum
+- Editor - Abyss ambience from People Playground 
+- Menu - Carousel music from Retro Games The Spectrum
