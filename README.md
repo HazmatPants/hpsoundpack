@@ -1,8 +1,8 @@
-# HP Sound Pack
+# HazmatPants Sound Pack
 A sound pack for Mindustry.
-This mod should be installable through the in-game mod browser, but you can also just clone this repo into your mods folder.
+This mod should be installable through the in-game mod browser, but you can also just clone this repo in your mods folder.
 
-# Music
+# Music Credits
 
 - Editor - Abyss ambience from People Playground 
 - Menu - Carousel music from Retro Games The Spectrum
