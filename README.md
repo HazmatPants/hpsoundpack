@@ -2,6 +2,8 @@
 A sound pack for Mindustry.
 This mod should be installable through the in-game mod browser, but you can also just clone this repo in your mods folder.
 
+NOTE: Some sounds are quite loud; lower your SFX volume.
+
 # Music Credits
 
 - Editor - Abyss ambience from People Playground 
