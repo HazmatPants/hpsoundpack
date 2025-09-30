@@ -10,5 +10,5 @@ This mod should be installable through the in-game mod browser, but you can also
 - Menu - Carousel music from Retro Games The Spectrum
 - Launch - Vehicle trick music from Fortnite
 - game1 - Inflicted by ANG3LBLUE
-- game2-5 - from Casualities: Unknown by Orsoniks
-- game6-9 - from NTM: Space by JameH2
+- game2-5 - from [Casualites: Unknown by Orsoniks](https://orsonik.itch.io/scav-prototype)
+- game6-9 - from [NTM: Space by JameH2](https://github.com/JameH2/Hbm-s-Nuclear-Tech-GIT)
