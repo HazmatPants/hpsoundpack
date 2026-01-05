@@ -4,7 +4,7 @@
 	"author": "HazmatPants",
 	"description": "Replaces sounds with cooler ones",
 	"version": 1.0,
-	"minGameVersion": 146,
+	"minGameVersion": 154,
 	"dependencies": [],
 	"hidden": true
 }
